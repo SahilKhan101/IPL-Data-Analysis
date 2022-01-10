@@ -13,3 +13,5 @@ Purpose of this repo is to maintained the codes for EDA and Data Analysis done d
 9) Make a scatter plot with y-axis as mean strike rate per over, x-axis as number of over, color according to batsmen(take top 20-30 batsmen according to score) and size as number of bowls faced by them (to get understanding of their experiance)
 10) Make a bi-histogram plot for some Team1 vs Team2 with x axis as different years. This will give us an estimate of how the two teams perform against each other over the years. Make a function so that we can easily put two different teams.
 11) Use Tableau Dashboard feature to get some plots for top batsmen and bowlers.
+
+- Data Utilized for tasks: https://www.kaggle.com/nowke9/ipldata?select=matches.csv
