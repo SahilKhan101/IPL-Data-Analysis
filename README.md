@@ -23,8 +23,6 @@ Utilized different Machine Learning models to Perform Classification Task (Predi
 ## Phase 3:
 Designed Neural Networks to accomplish the same tasks as mentioned above, Observed the accuracy and R<sup>2</sup> score v/s epoch trend for training and validation sets and tuned the hyperparameters based on that.
 
+<br>
 
-# Detailed Discussion is done in the Report attached.
-
-- Data Utilized for tasks: https://www.kaggle.com/nowke9/ipldata?select=matches.csv
-
+> ## Detailed Discussion is done in the attached Report.
