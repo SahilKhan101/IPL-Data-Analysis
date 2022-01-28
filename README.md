@@ -1,5 +1,5 @@
 # IPL-Data-Analysis
-Purpose of this repo is to maintain the codes for EDA and Data Analysis done during the project
+This repo contains the codes and report for EDA and Data Analysis done during the project.
 
 ## Phase 1: 
 Did some Exploratory Data Analysis tasks, following tasks were accomplished:
